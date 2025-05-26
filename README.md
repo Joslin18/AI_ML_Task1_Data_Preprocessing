@@ -29,4 +29,4 @@ This project is part of Task 1 for an AI/ML internship and focuses on data prepr
 3. Run all cells in order.
 
 ## Author
-Joslin(GitHub:[Joslin18]
+JoslinGitHub:[Joslin18]
